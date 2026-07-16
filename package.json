@@ -1,0 +1,1 @@
+{"name":"prosofts-server","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.14.2"}}
